@@ -1,5 +1,5 @@
 # Initialize a list with some elements
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana"]
 
 # Add a new element to the end of the list
 fruits.append("orange")
